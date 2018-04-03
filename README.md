@@ -8,8 +8,8 @@ Faça o que se pede:
 
 2) Reproduzir as seguintes funcionalidades já praticadas no GIT (local) utilizando o repositório remoto:
 
-	2.1 - Crie novo repositório e armazenar itens de configuração.
-	2.2 - Identifique e verifique o log do item de configuração no GITHUB.
+	2.1 - Crie novo repositório e armazenar itens de configuração;
+	2.2 - Identifique e verifique o log do item de configuração no GITHUB;
 	2.3 - Verifique se seus comentários estão presentes para cada item comitado, nome e email se estão corretos.    
 	2.4 - Alteração do artefato, Realize neste sentido uma simulação de mudança:
 	2.5 - Escolha um dos artefatos e altere o seu conteúdo de modo que sejam adicionadas novas funcionalidades.
