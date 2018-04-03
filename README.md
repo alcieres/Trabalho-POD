@@ -3,7 +3,7 @@ Trabalho 01 - Sistemas de Gerência de Configuração
 
 Faça o que se pede:
 
-1) Criar uma conta de usuário no repositório GITHUB (remote).
+1) Criar uma conta de usuário no repositório tradutorGITHUB (remote).
 
 2) Reproduzir as seguintes funcionalidades já praticadas no GIT (local) utilizando
    o repositório remoto:
